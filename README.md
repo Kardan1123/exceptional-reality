@@ -1,7 +1,7 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
  <head>
-  <title>'Exceptional Realty Group Website'</title>
+  <title>Exceptional Realty Group Website</title>
  </head>
  <body>
 
